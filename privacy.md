@@ -1,8 +1,8 @@
-# Browser Pets — Privacy Policy
+# Tiny Herd — Privacy Policy
 
 _Last updated: 6 August 2026_
 
-Browser Pets is a virtual pet that lives at the bottom of your web pages.
+Tiny Herd is a virtual pet that lives at the bottom of your web pages.
 It is designed to work **entirely on your device**. No data is transmitted,
 collected, or sold — there are no servers, no analytics, and no tracking of
 any kind.
@@ -57,7 +57,7 @@ it straight to your downloads. It is generated locally and never uploaded.
 ## Contact
 
 Questions or concerns: open an issue at
-[github.com/gtrtuugii/chrome-pets-public](https://github.com/gtrtuugii/chrome-pets-public/issues)
+[github.com/gtrtuugii/tiny-herd-public](https://github.com/gtrtuugii/tiny-herd-public/issues)
 or email **chobydev@gmail.com**.
 
 Changes to this policy will be posted on this page with an updated date.

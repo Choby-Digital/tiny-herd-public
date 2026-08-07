@@ -1,4 +1,4 @@
-# 🐾 Browser Pets
+# 🐾 Tiny Herd
 
 **A tiny pixel pet that lives at the bottom of every page.**
 
@@ -7,7 +7,7 @@ mood strikes, and levels up as you browse. Occasionally it announces useful
 things — a finished download, new unread messages — in a little speech
 bubble. That's it. That's the extension.
 
-![Browser Pets](assets/promo-tile.png)
+![Tiny Herd](assets/promo-tile.png)
 
 ## Get it
 
@@ -35,5 +35,5 @@ zero data collection.** Full details: [privacy policy](privacy.md).
 
 ## Feedback & support
 
-- 🐛 Bugs & ideas: [GitHub issues](https://github.com/gtrtuugii/chrome-pets-public/issues)
+- 🐛 Bugs & ideas: [GitHub issues](https://github.com/gtrtuugii/tiny-herd-public/issues)
 - ✉️ Email: chobydev@gmail.com
