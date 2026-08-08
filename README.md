@@ -3,9 +3,10 @@
 **A tiny pixel pet that lives at the bottom of every page.**
 
 It wanders while you read, naps when it's late, chases your cursor when the
-mood strikes, and levels up as you browse. Occasionally it announces useful
-things — a finished download, new unread messages — in a little speech
-bubble. That's it. That's the extension.
+mood strikes, and levels up as you browse. It cheers you on through focus
+sessions, reminds you to stretch, collects achievements, and occasionally
+announces useful things — a finished download, new unread messages — in a
+little speech bubble. That's it. That's the extension.
 
 ![Tiny Herd](assets/promo-tile.png)
 
@@ -15,6 +16,7 @@ bubble. That's it. That's the extension.
 
 ## Features
 
+### Your pet
 - 🐈 **Three pets to start** — orange cat, beagle, and a yellow duck
   (more species and colours on the way)
 - ✨ **XP & levels** — your pet grows as you browse: bigger sizes at level 5,
@@ -22,16 +24,41 @@ bubble. That's it. That's the extension.
 - 🎾 **Play** — double-click near the bottom of a page to throw a ball;
   click your pet to give it affection (it will love you back)
 - 📸 **Photo cards** — generate a shareable portrait card of your pet
+- 🌙 **Night owl aware** — pets sleep more after 10pm, like you should
+
+### Company while you work
+- 🎯 **Focus mode** — start a 25/5 Pomodoro from the popup; your pet
+  celebrates every focus block you finish
+- 🌿 **Break reminders** — after a long stretch on one tab, your pet suggests
+  you get up and move (adjustable, and easy to switch off)
+- 🏆 **Achievements** — 13 badges to collect for streaks, night-owl browsing,
+  games of fetch, focus blocks and more
+- 🔥 **Daily streaks** — your pet keeps count of every day you show up
+- 😴 **It reacts to you** — naps while you're away, and is very pleased when
+  you come back
+
+### Notifications, but gentle
 - 💬 **Announcements** — finished downloads and unread-count bumps, spoken
   by your pet
-- 🌙 **Night owl aware** — pets sleep more after 10pm, like you should
+- 🎉 **Fun announcements** — hourly check-ins and open-tab milestones
+  ("whoa, 20 tabs?") — entirely optional
 - 🫥 **Per-site hide** — banish the pet from any site where it's in the way
 - ♿ Respects your system's reduced-motion setting
+
+## A look at it
+
+| | |
+|---|---|
+| ![The pet on a page](assets/shot1-pet-on-page.png) | ![Levelling up](assets/shot3-levelup.png) |
+| Lives at the bottom of the page, announcing a finished download. | Levels up as you browse, with a small confetti moment. |
+| ![Chasing a ball](assets/shot5-ball-chase.png) | ![Photo card](assets/shot4-photo-card.png) |
+| Double-click near the bottom of a page to throw a ball. | Save a shareable portrait card of your pet. |
 
 ## Privacy
 
 Everything runs on your device. **Zero network requests, zero analytics,
-zero data collection.** Full details: [privacy policy](privacy.md).
+zero data collection.** Your pet's timers and achievements never leave your
+browser. Full details: [privacy policy](privacy.md).
 
 ## Feedback & support
 
