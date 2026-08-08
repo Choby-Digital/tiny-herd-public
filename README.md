@@ -58,6 +58,11 @@ That's the extension.
 | ![Chasing a ball](assets/shot5-ball-chase.png) | ![Photo card](assets/shot4-photo-card.png) |
 | Double-click near the bottom of a page to throw a ball. | Save a shareable portrait card of your pet. |
 
+Everything lives in one small popup — pick a pet, start a focus session,
+set your break interval, and track your badges:
+
+![The settings popup](assets/shot2-popup.png)
+
 ## Privacy
 
 Everything runs on your device. **Zero network requests, zero analytics,
