@@ -5,8 +5,9 @@
 It wanders while you read, naps when it's late, chases your cursor when the
 mood strikes, and levels up as you browse. It cheers you on through focus
 sessions, reminds you to stretch, collects achievements, and occasionally
-announces useful things — a finished download, new unread messages — in a
-little speech bubble. That's it. That's the extension.
+announces useful things — a finished download, new unread messages, your
+computer running low on memory — in a little speech bubble. That's it.
+That's the extension.
 
 ![Tiny Herd](assets/promo-tile.png)
 
@@ -40,6 +41,9 @@ little speech bubble. That's it. That's the extension.
 ### Notifications, but gentle
 - 💬 **Announcements** — finished downloads and unread-count bumps, spoken
   by your pet
+- 🧠 **Low-memory warnings** — when your computer starts running out of RAM,
+  your pet suggests closing a few tabs (and gets more insistent the worse it
+  gets) — handy if you keep a lot of tabs, or several browsers, open at once
 - 🎉 **Fun announcements** — hourly check-ins and open-tab milestones
   ("whoa, 20 tabs?") — entirely optional
 - 🫥 **Per-site hide** — banish the pet from any site where it's in the way
