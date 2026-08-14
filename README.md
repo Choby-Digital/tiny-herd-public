@@ -13,7 +13,9 @@ That's the extension.
 
 ## Get it
 
-**Chrome Web Store listing coming soon.**
+**[Install Tiny Herd from the Chrome Web Store →](https://chromewebstore.google.com/detail/tiny-herd/bnnmnoplcekgfbabkeaednknckanhoko)**
+
+Free · runs 100% on-device.
 
 ## Features
 
