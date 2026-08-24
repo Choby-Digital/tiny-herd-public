@@ -26,14 +26,26 @@ Free · runs 100% on-device.
 ### Your pet
 - 🐈 **Three pets to start** — orange cat, beagle, and a yellow duck
   (more species and colours on the way)
-- ✨ **XP & levels** — your pet grows as you browse: bigger sizes at level 5,
-  a tiny crown at 10, a sparkle trail at 15
-- 🎾 **Play** — double-click near the bottom of a page to throw a ball;
-  click your pet to give it affection (it will love you back)
+- ✨ **XP & levels** — your pet literally grows up as you browse: small and
+  round at first, all grown at level 5, a tiny crown at 10, a sparkle trail
+  and a golden elder glow at 15
+- 🎾 **Play** — double-click near the bottom of a page to throw a ball, or
+  pick your pet up and *fling* it — it tumbles, bounces off the walls, and
+  lands with a dazed little wobble
+- 💛 **Moods & memories** — it plays more when you've been around, mopes a
+  little when you haven't, and remembers things ("we've been together 40
+  days 🐾")
+- 🪙 **Daily trinkets** — every day it sees you, your pet digs up a little
+  treasure for its collection shelf; some finds are rare
+- 👒 **Wardrobe** — earn tokens by playing and dress your pet in hats, bows
+  and seasonal outfits
 - 📸 **Photo cards** — generate a shareable portrait card of your pet
 - 🌙 **Night owl aware** — pets sleep more after 10pm, like you should
 
 ### Company while you work
+- 📝 **To-dos** — a small task list in the popup; give a task a deadline and
+  your pet reminds you when it's due (finishing tasks earns a little XP and
+  the odd wardrobe token)
 - 🎯 **Focus mode** — start a 25/5 Pomodoro from the popup; your pet
   celebrates every focus block you finish
 - 🌿 **Break reminders** — after a long stretch on one tab, your pet suggests
