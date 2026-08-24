@@ -11,6 +11,10 @@ That's the extension.
 
 ![Tiny Herd](assets/promo-tile.png)
 
+## See it
+
+![Tiny Herd demo](assets/demo.gif)
+
 ## Get it
 
 **[Install Tiny Herd from the Chrome Web Store →](https://chromewebstore.google.com/detail/tiny-herd/bnnmnoplcekgfbabkeaednknckanhoko)**
@@ -75,3 +79,12 @@ browser. Full details: [privacy policy](privacy.md).
 
 - 🐛 Bugs & ideas: [GitHub issues](https://github.com/gtrtuugii/tiny-herd-public/issues)
 - ✉️ Email: chobydev@gmail.com
+
+## Help & support
+
+Questions, bugs, ideas?
+[Open an issue](https://github.com/gtrtuugii/tiny-herd-public/issues) —
+a human reads every one.
+
+**Privacy in one line:** everything runs and stays on your device — no
+servers, no analytics, no accounts. Full policy: [privacy](privacy.md).
