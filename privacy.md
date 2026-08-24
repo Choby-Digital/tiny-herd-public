@@ -102,7 +102,7 @@ achievements, and timers. There is nothing stored anywhere else.
 ## Contact
 
 Questions or concerns: open an issue at
-[github.com/gtrtuugii/tiny-herd-public](https://github.com/gtrtuugii/tiny-herd-public/issues)
+[github.com/Choby-Digital/tiny-herd-public](https://github.com/Choby-Digital/tiny-herd-public/issues)
 or email **chobydev@gmail.com**.
 
 Changes to this policy will be posted on this page with an updated date.

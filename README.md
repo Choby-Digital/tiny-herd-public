@@ -89,13 +89,13 @@ browser. Full details: [privacy policy](privacy.md).
 
 ## Feedback & support
 
-- 🐛 Bugs & ideas: [GitHub issues](https://github.com/gtrtuugii/tiny-herd-public/issues)
+- 🐛 Bugs & ideas: [GitHub issues](https://github.com/Choby-Digital/tiny-herd-public/issues)
 - ✉️ Email: chobydev@gmail.com
 
 ## Help & support
 
 Questions, bugs, ideas?
-[Open an issue](https://github.com/gtrtuugii/tiny-herd-public/issues) —
+[Open an issue](https://github.com/Choby-Digital/tiny-herd-public/issues) —
 a human reads every one.
 
 **Privacy in one line:** everything runs and stays on your device — no
