@@ -5,9 +5,9 @@ so it's already gone — nothing to delete on our end (there is no "our end").
 
 **One question before you leave:** what made you uninstall?
 
-Your answer genuinely shapes what gets built next. Tell us via
+Your answer genuinely shapes what gets built next — tell us via
 [a quick GitHub issue](https://github.com/gtrtuugii/tiny-herd-public/issues/new?title=Why%20I%20uninstalled&labels=feedback)
-or email **SUPPORT_EMAIL_TBD**.
+(no account? just close this tab, no hard feelings).
 
 Common fixes, in case one of these was the reason:
 
