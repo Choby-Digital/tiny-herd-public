@@ -95,8 +95,8 @@ browser. Full details: [privacy policy](privacy.md).
 ## Help & support
 
 Questions, bugs, ideas?
-[Open an issue](https://github.com/Choby-Digital/tiny-herd-public/issues) —
-a human reads every one.
+[Open an issue](https://github.com/Choby-Digital/tiny-herd-public/issues) or
+email [chobydev@gmail.com](mailto:chobydev@gmail.com) — a human reads both.
 
 **Privacy in one line:** everything runs and stays on your device — no
 servers, no analytics, no accounts. Full policy: [privacy](privacy.md).

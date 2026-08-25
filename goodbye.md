@@ -7,7 +7,7 @@ so it's already gone — nothing to delete on our end (there is no "our end").
 
 Your answer genuinely shapes what gets built next — tell us via
 [a quick GitHub issue](https://github.com/Choby-Digital/tiny-herd-public/issues/new?title=Why%20I%20uninstalled&labels=feedback)
-(no account? just close this tab, no hard feelings).
+or email [chobydev@gmail.com](mailto:chobydev@gmail.com).
 
 Common fixes, in case one of these was the reason:
 
