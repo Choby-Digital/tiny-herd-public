@@ -71,15 +71,15 @@ Free · runs 100% on-device.
 
 | | |
 |---|---|
-| ![The pet on a page](assets/shot1-pet-on-page.png) | ![Levelling up](assets/shot3-levelup.png) |
+| ![The room on a new tab](assets/shot1-room.png) | ![The herd on a page](assets/shot2-herd.png) |
 | Lives at the bottom of the page, announcing a finished download. | Levels up as you browse, with a small confetti moment. |
-| ![Chasing a ball](assets/shot5-ball-chase.png) | ![Photo card](assets/shot4-photo-card.png) |
+| ![The premium pack](assets/shot3-premium.png) | ![To-dos and reminders](assets/shot4-tasks.png) |
 | Double-click near the bottom of a page to throw a ball. | Save a shareable portrait card of your pet. |
 
 Everything lives in one small popup — pick a pet, start a focus session,
 set your break interval, and track your badges:
 
-![The settings popup](assets/shot2-popup.png)
+![Photo card](assets/shot5-photo-card.png)
 
 ## Privacy
 
